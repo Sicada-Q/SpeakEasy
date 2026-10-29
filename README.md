@@ -44,7 +44,7 @@
 **方式 A · 一键克隆**
 
 ```bash
-git clone https://github.com/371301461-ui/SpeakEasy.git ~/.workbuddy/skills/SpeakEasy
+git clone https://github.com/Sicada-Q/SpeakEasy.git ~/.workbuddy/skills/SpeakEasy
 ```
 
 **方式 B · 手动**
